@@ -5,7 +5,7 @@ This project uses Natural Language Processing (NLP) techniques along with a trai
 
 ---
 
-## 🚀 Features
+## 🚀 Features  
 
 - Real-time sentiment prediction
 - Interactive web interface using Streamlit
